@@ -1,0 +1,29 @@
+{
+  "name": "Symmetria.io",
+  "version": "0.0.0",
+  "description": "blogging made simple",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "web",
+    "design",
+    "development",
+    "dev",
+    "publish"
+  ],
+  "author": "Cosmin Atomei",
+  "license": "ISC",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.5.1",
+    "body-parser": "^1.4.3",
+    "mongodb": "^1.4.19",
+    "cookie-parser": "",
+    "express-session": "",
+    "moment": "",
+    "mailgun-js": ""
+  }
+}
